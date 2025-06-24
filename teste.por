@@ -6,13 +6,5 @@ programa{
   escreva("informe o nome de seu amigo mais proximo: ")
   leia(nom2)
   
-  
-  
-  real n2
-  real n1
-  
-  escreva("sua idade: ")
-  leia(n1)
-  
   }
  }
